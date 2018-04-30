@@ -1,3 +1,4 @@
+/* DEVELOPER: Michael Mobilio, IS117-006, Spring 2018 */
 function loadPage(name) {
     var content = $("#content");
     content.html(
