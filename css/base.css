@@ -1,0 +1,71 @@
+#content {
+    background-color: #f8f9fa !important;
+    padding: 3.5rem 0 2rem 0;
+}
+
+.landing.jumbotron {
+    padding: 10rem 2rem !important;
+    background-image: url("../img/landing.png");
+    background-color: #4366DA;
+    background-size: cover;
+    color: white;
+}
+
+.landing.jumbotron h1 {
+    text-shadow: 0.05rem 0.05rem 0.1rem #000;
+}
+
+.stripe {
+    padding: 2rem 0 2rem 0;
+}
+
+.blockquote.lead {
+    font-size: 2rem;
+}
+
+.loader {
+    padding: 2rem;
+    font-size: 5rem;
+    width: 100%;
+    text-align: center;
+}
+
+.unstyled {
+    list-style: none;
+    padding: 0;
+}
+
+.img-small {
+    max-height: 10rem;
+}
+
+.card-img-left, .card-img-right {
+    width: 15rem;
+    min-width: 15rem;
+}
+
+.relaxed.container .row {
+    margin: 4rem 0 4rem 0;
+}
+
+.relaxed-2.container .row {
+    margin-top: 2rem;
+}
+
+.display-lead {
+    font-size: 2rem;
+}
+
+.stripe-1 {
+    background-color: #F1F1F1;
+}
+
+.stripe-2 {
+    background-color: #E8E8E8;
+}
+
+@media (max-width: 991.98px) {
+    .landing.jumbotron {
+        padding: 2rem 1rem !important;
+    }
+}
